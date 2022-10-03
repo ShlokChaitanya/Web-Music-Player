@@ -11,12 +11,12 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Alan Walker - 135', 'Alan Walker - Alone', 'Alan Walker - Lily', 'Alan Walker - Faded', 'Alan Walker - On My Way',
-	'Alan Walker – Heading Home', 'Alan Walker - Ignite', 'Alan x Walkers - Unity', 'Alan Walker - The Spectre', 'Anne-Marie - 2002',
-	'Astronomia guitar', 'Bhaag DK Bose', 'Bad Boy', 'chilled-acoustic-indie-folk-instrumental-background-music-for-videos-5720',
-	'Coffin Dance Guitar', 'Dance Monkey', 'Ed Sheeran - Shape of you', 'Face The Fire', 'Fighter', 'HAPPY BIRTHDAY INSTRUMENTAL', 
-	"I'm So Close I Can Taste It", 'Imagine Dragons - Believer', 'joker', 'La Casa De Papel - Bella Ciao','Marshmello - Alone', 
-	'Marshmello - FRIENDS', 'Marshmello - Happier', 'My Life is Going On', 'Never Surrender', 'Pirates of the Caribbean',
+const songs = ['Alan Walker - Alone', 'Alan Walker - Faded', 'Alan Walker – Heading Home', 'Alan Walker - Ignite', 
+    'Alan Walker - Lily', 'Alan Walker - On My Way',  'Alan Walker - The Spectre', 'Alan x Walkers - Unity', 'Anne-Marie - 2002',
+	'Astronomia guitar', 'Bad Boy', 'Balenciga', 'Bhaag DK Bose', 'chilled-acoustic-indie-folk-instrumental-background-music-for-videos-5720',
+	'Coffin Dance Guitar', 'DAKU', 'Dance Monkey', 'Don Omar', 'Ed Sheeran - Shape of you', 'HAPPY BIRTHDAY INSTRUMENTAL', 
+	"Hide and seek", 'Imagine Dragons - Believer', 'joker', 'Kangns Tera Ni', 'La Casa De Papel - Bella Ciao','Marshmello - Alone', 
+	'Marshmello - FRIENDS', 'Marshmello - Happier', 'My Life is Going On', 'Obsession', 'One Kiss', 'Pirates of the Caribbean',
 	'YALGAAR - CARRYMINATI'];
 
 // Keep track of song
